@@ -291,5 +291,3 @@ wella/
 
 * **LLaMA-Factory**（统一高效的 100+ 模型微调框架）
 * 相关开源组件（PEFT/TRL/vLLM/FlashAttention-2 等）
-
-如果你愿意，我也可以把这些文件（`configs/*.yaml`、`data/dataset_info.json`、`wella_sft.jsonl` 模板、`scripts/prepare_data.py` 雏形）打成一个最小可运行包给你。
